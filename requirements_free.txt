@@ -1,0 +1,10 @@
+streamlit
+chromadb
+pypdf2
+python-dotenv
+tiktoken
+sentence-transformers
+torch
+transformers
+requests
+
